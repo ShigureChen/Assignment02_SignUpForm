@@ -17,6 +17,9 @@ Once the user did not input any information and hit register button. The applica
 or if the user forgot to enter e-mail address.
 ![](Image/toast2.png)
 
+or if the user did not enter their password
+![](Image/toast5.png)
+
 or if the user did not put identical passwords.
 ![](Image/toast3.png)
 
